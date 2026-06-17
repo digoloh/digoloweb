@@ -1,4 +1,6 @@
-baseURL = 'https://minimal-black-demo.netlify.app'
+baseURL = "https://digoloh.github.io/digoloweb"
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Mike Bett'
 theme = "minimal-black"
