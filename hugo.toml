@@ -1,6 +1,6 @@
 baseURL = "https://digoloh.github.io/digoloweb"
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 languageCode = 'en-us'
 title = 'Mike Bett'
 theme = "minimal-black"
